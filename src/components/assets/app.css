@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+/* WELCOME */
+#welcome{
+    background-image: url('https://americansystem.com.br/wp-content/uploads/2019/06/AmericanSystemServers.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    min-height: 400px;
+}
+#textWelcome{
+    font: 16pt Arial, Helvetica, sans-serif;
+    padding-top: 8rem;
+    padding-left: 7rem;
+    word-wrap:  normal;
+    max-width: 35rem;
+    position: sticky;
+}
+
+/* CARDS */
+#cards{
+    padding: 7rem;
+    font: 16px Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+
+/* TABLE */
+img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#table{
+    background-color: #7295af;
+    text-align: center;
+    padding-left: 3rem;
+    color: black;
+    padding: 5rem;
+    font: 20px Arial, Helvetica, sans-serif;
+}
+
+td{
+    height: 50px;
+}
+
+#foot{
+    background-color: antiquewhite;
+    height: 5rem;
+    color: black;
+    font: 1em sans-serif;
+    padding-top: 3rem;
+}
